@@ -548,6 +548,16 @@ entries:
     official: false
     tags: [security, pentesting, agents, docker]
 
+  - id: ichi-mcp
+    name: ICHI MCP Server
+    kind: server
+    category: security
+    url: https://github.com/bernik-bot/ichi-mcp
+    description: Internet Cyber Health Index MCP server — returns the current internet-wide threat score (NORMAL to CRITICAL), recent critical-vulnerability advisories, and source-feed health with no API key required.
+    transport: [stdio]
+    official: false
+    tags: [security, threat-intelligence, monitoring, free]
+
   - id: contextstream
     name: ContextStream
     kind: server

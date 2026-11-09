@@ -231,6 +231,7 @@ Legend: ✅ = Official / reference project · Transport: `stdio`/`sse`/`remote`
 ### Security
 
 - [DarkMoon](https://github.com/ASCIT31/Dark-Moon) — Open-source autonomous AI penetration testing platform — 50 specialist agents orchestrated over MCP, shipping as both MCP host and server. — `security`, `pentesting`, `agents`, `docker`
+- [ICHI MCP Server](https://github.com/bernik-bot/ichi-mcp) `stdio` — Internet Cyber Health Index MCP server — returns the current internet-wide threat score (NORMAL to CRITICAL), recent critical-vulnerability advisories, and source-feed health with no API key required. — `security`, `threat-intelligence`, `monitoring`, `free`
 
 ### Social
 
